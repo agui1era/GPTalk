@@ -1,0 +1,9 @@
+openai
+SpeechRecognition
+pyttsx3
+pyaudio
+python-dotenv
+numpy
+sounddevice
+openwakeword
+faster_whisper
